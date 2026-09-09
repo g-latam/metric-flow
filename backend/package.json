@@ -35,7 +35,7 @@
     "class-transformer": "^0.5.1",
     "class-validator": "^0.15.1",
     "cron-parser": "^5.6.0",
-    "csv-parse": "^7.0.0",
+    "csv-parse": "^7.0.2",
     "mssql": "^12.6.0",
     "mysql2": "^3.22.5",
     "node-sql-parser": "5.4.0",
